@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Tarea.Infraestructura.SQLServer": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:54651;http://localhost:54652"
+    }
+  }
+}
